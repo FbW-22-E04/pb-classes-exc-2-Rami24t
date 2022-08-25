@@ -43,3 +43,4 @@ rami.removeManagedEmployee(jim);
 
 console.log(rami);
 
+rami.generatePaySlip();
